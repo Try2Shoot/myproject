@@ -2,6 +2,10 @@ h1,h2,h3,p,li{
 	font-family: sans-serif;
 }
 
+h1,h2,h3 {
+	color: steelblue;
+}
+
 h1{
 	font-size: 25px;
 	text-transform: capitalize;
@@ -48,4 +52,14 @@ li{
 
 .related{
 	list-style: none;
+}
+
+.header {
+	background-color: #ddd;
+}
+
+aside{
+	background-color: #ddd;
+	border-top: 5px solid steelblue;
+	border-bottom: 5px solid steelblue;
 }
