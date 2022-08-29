@@ -63,3 +63,7 @@ aside{
 	border-top: 5px solid steelblue;
 	border-bottom: 5px solid steelblue;
 }
+
+#image:hover {
+	transform-scale : 0.99;
+}
