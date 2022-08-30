@@ -65,5 +65,23 @@ aside{
 }
 
 #image:hover {
-	transform-scale : 0.99;
+	transform: scale(1.01);
+}
+
+a:link {
+	color: steelblue;
+	font-style: italic;
+	text-decoration: none;
+}
+
+a:visited {
+	color: steelblue;
+}
+
+a:hover {
+	color: blue;
+}
+
+a:active {
+	color: red;
 }
