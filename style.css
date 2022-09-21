@@ -89,3 +89,16 @@ a:active {
 .heading:hover {
 	color: blueviolet;
 }
+
+.arrow {
+	position: absolute;
+	right: 0;
+}
+
+div.arrowdiv {
+	position: absolute;
+	right: 0;
+	position: sticky;
+	top: 0;
+
+}
